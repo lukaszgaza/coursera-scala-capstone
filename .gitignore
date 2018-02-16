@@ -1,2 +1,7 @@
 src/main/resources/resources/
 src/main/resources/scala-capstone-data.zip
+.idea/
+capstone-ui/target/
+project/project/
+project/target/
+target/
